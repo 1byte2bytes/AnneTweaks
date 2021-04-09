@@ -1,0 +1,5 @@
+name: AT-UncraftStairs
+version: 1.0.0
+author: Anne
+main: com.boonchuy.at.uncraftstairs.uncraftstairs
+api-version: 1.16
