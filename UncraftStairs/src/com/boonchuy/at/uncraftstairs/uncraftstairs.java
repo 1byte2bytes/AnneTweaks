@@ -31,11 +31,11 @@ public class uncraftstairs extends JavaPlugin {
         CreateUncraftStairRecipe(Material.DIORITE_STAIRS, Material.DIORITE, "diorite");
         CreateUncraftStairRecipe(Material.POLISHED_DIORITE_STAIRS, Material.POLISHED_DIORITE, "polished_diorite");
         CreateUncraftStairRecipe(Material.GRANITE_STAIRS, Material.GRANITE, "granite");
-        // Sand based
         CreateUncraftStairRecipe(Material.POLISHED_GRANITE_STAIRS, Material.POLISHED_GRANITE, "polished_granite");
+        // Sand based
         CreateUncraftStairRecipe(Material.SANDSTONE_STAIRS, Material.SANDSTONE, "sandstone");
-        CreateUncraftStairRecipe(Material.RED_SANDSTONE_STAIRS, Material.RED_SANDSTONE, "red_sandstone");
         CreateUncraftStairRecipe(Material.SMOOTH_SANDSTONE_STAIRS, Material.SMOOTH_SANDSTONE, "smooth_sandstone");
+        CreateUncraftStairRecipe(Material.RED_SANDSTONE_STAIRS, Material.RED_SANDSTONE, "red_sandstone");
         CreateUncraftStairRecipe(Material.SMOOTH_RED_SANDSTONE_STAIRS, Material.SMOOTH_RED_SANDSTONE, "smooth_red_sandstone");
         // Brick based
         CreateUncraftStairRecipe(Material.BRICK_STAIRS, Material.BRICKS, "bricks");
