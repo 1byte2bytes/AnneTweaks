@@ -1,0 +1,5 @@
+name: AT-UndyeTerracotta
+version: 1.0.0
+author: Anne
+main: com.boonchuy.at.undyeterracotta.undyeterracotta
+api-version: 1.16

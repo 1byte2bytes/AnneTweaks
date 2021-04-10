@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="UndyeTerracotta:jar">
+    <output-path>$USER_HOME$/Desktop/MC/plugins</output-path>
+    <root id="archive" name="UndyeTerracotta.jar">
+      <element id="module-output" name="UndyeTerracotta" />
+    </root>
+  </artifact>
+</component>
