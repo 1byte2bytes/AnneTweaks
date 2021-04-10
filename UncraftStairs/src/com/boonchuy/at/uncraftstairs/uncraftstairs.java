@@ -55,7 +55,7 @@ public class uncraftstairs extends JavaPlugin {
     }
 
     void CreateUncraftStairRecipe(Material stairs, Material planks, String type) {
-        ItemStack target = new ItemStack(planks, 6);
+        ItemStack target = new ItemStack(planks, 4);
         NamespacedKey key = new NamespacedKey(this, "uncraft_" + type + "_stairs");
         ShapelessRecipe recipe = new ShapelessRecipe(key, target);
         recipe.addIngredient(4, stairs);
