@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AnneTweaks.iml" filepath="$PROJECT_DIR$/AnneTweaks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UncraftSlabs/UncraftSlabs.iml" filepath="$PROJECT_DIR$/UncraftSlabs/UncraftSlabs.iml" />
       <module fileurl="file://$PROJECT_DIR$/UncraftStairs/UncraftStairs.iml" filepath="$PROJECT_DIR$/UncraftStairs/UncraftStairs.iml" />
     </modules>
   </component>
