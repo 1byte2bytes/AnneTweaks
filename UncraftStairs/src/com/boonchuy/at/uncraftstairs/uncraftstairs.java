@@ -46,7 +46,7 @@ public class uncraftstairs extends JavaPlugin {
         // Nether based
         CreateUncraftStairRecipe(Material.NETHER_BRICK_STAIRS, Material.NETHER_BRICK, "nether_brick");
         CreateUncraftStairRecipe(Material.RED_NETHER_BRICK_STAIRS, Material.RED_NETHER_BRICKS, "red_nether_brick");
-        CreateUncraftStairRecipe(Material.QUARTZ_STAIRS, Material.QUARTZ, "quartz");
+        CreateUncraftStairRecipe(Material.QUARTZ_STAIRS, Material.QUARTZ_BLOCK, "quartz");
         CreateUncraftStairRecipe(Material.SMOOTH_QUARTZ_STAIRS, Material.SMOOTH_QUARTZ, "smooth_quartz");
         CreateUncraftStairRecipe(Material.BLACKSTONE_STAIRS, Material.BLACKSTONE, "blackstone");
         // End based
