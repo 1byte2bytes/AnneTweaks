@@ -33,7 +33,7 @@ public class rightclicklistener implements Listener {
         if (i.getType().toString().endsWith("_TERRACOTTA") && !i.getType().toString().contains("GLAZED")
                 && i.getType() != Material.WHITE_TERRACOTTA) {
             i.setAmount(i.getAmount() - 1);
-            p.getInventory().addItem(new ItemStack(Material.WHITE_TERRACOTTA));
+            p.getInventory().addItem(new ItemStack(Material.TERRACOTTA));
             event.setCancelled(true);
         } else {
             return;
